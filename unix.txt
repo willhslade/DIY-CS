@@ -1,0 +1,27 @@
+UNIX
+# list all files
+ls -a
+
+clear
+
+pwd
+
+systemctl suspend
+
+# delete folder
+rm -rf foldername/
+
+# start firefox in background process
+nohup firefox &
+
+# start firefox with profile manager
+firefox -p
+
+# make multiple directories at once
+mkdir -p
+# example
+mkdir -p bin docs/personal docs/business lib
+
+# how to determine your local ip
+ifconfig -a | grep 192.
+

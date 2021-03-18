@@ -1,0 +1,4 @@
+gitkraken
+https://support.gitkraken.com/how-to-install/
+wget https://release.gitkraken.com/linux/gitkraken-amd64.rpm
+sudo yum install ./gitkraken-amd64.rpm

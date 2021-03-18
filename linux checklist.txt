@@ -1,0 +1,23 @@
+linux checklist
+wireless drivers (broadcom b43)
+ntfs drivers
+change gnome-terminal to ctrl alt t
+change nautilus to windows e
+git
+? gitkraken
+mega sync
+chrome / chromium (udemy won't work without it)
+VSCode
+anki
+postgresql
+intellij
+java jdk - oracle? amazon?
+
+rdp
+https://vitux.com/centos-desktop-rdp-xrdp/
+dnf install xrdp
+systemctl enable xrdp
+systemctl start xrdp
+# To verify the XRDP is running, type the following command:
+systemctl status xrdp
+

@@ -1,0 +1,24 @@
+git notes
+
+working
+staging area
+local
+remote
+
+git config --global user.name "William Slade"
+git config --global user.email "willhslade@gmail.com"
+
+# Seeing Git's User-based Config file
+cat ~/.gitconfig
+
+http://www.initializr.com/
+
+git status
+
+# add and commit in one command
+git commit -am "commit message"
+
+excel
+http://dailydoseofexcel.com/archives/2018/05/02/excel-version-control-with-git/
+
+

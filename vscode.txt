@@ -1,0 +1,11 @@
+VSCode
+
+code example.txt
+
+expand html boilerplate
+! + tab in html file
+
+merge tools inside VSCode
+https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff
+https://marketplace.visualstudio.com/items?itemName=huizhou.githd
