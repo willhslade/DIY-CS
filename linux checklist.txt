@@ -21,3 +21,7 @@ systemctl start xrdp
 # To verify the XRDP is running, type the following command:
 systemctl status xrdp
 
+brother printer
+https://help.brother-usa.com/app/answers/detail/a_id/52188/~/install-drivers-%28deb-or-rpm%29-using-the-driver-install-tool---linux
+
+pycharm
