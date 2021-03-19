@@ -1,5 +1,6 @@
 PLAN
 https://www.bogleheads.org/forum/viewtopic.php?f=2&t=310020&start=200#p5259519
+Specific to CS and the tech industry, to succeed in the workplace as a software engineer/programmer, you really need just 5 classes - data structures, computer architecture, algorithms, operating systems, computer networking. Optionally, a class in compilers would be useful to get familiar with programming state machines. All of this can be done in about 1 year post high school, assuming the student has done a lot of programming in high school.
 
 git + book
 
