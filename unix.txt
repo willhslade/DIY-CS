@@ -25,3 +25,11 @@ mkdir -p bin docs/personal docs/business lib
 # how to determine your local ip
 ifconfig -a | grep 192.
 
+# check updates
+yum check-update
+
+# update
+yum update
+
+# run last command as superuser
+sudo !!
