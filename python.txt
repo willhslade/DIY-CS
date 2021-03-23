@@ -14,3 +14,4 @@ sudo python3 -m pip install jupyterlab
 jupyter-lab
 
 # you can run jupyter notebooks in code!
+
