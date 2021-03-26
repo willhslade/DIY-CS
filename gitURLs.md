@@ -7,3 +7,9 @@ https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 https://read.amazon.ca/
 https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 https://www.youtube.com/watch?v=uUzRMOCBorg
+
+https://gitimmersion.com/
+https://try.github.io/
+https://missing.csail.mit.edu/2020/
+
+https://www.udemy.com/course/git-complete/learn/
